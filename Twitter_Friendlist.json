@@ -1,0 +1,90 @@
+[
+    {
+        "retweet_count": 6,
+        "id": 809706005864988672,
+        "text": "@Pawankhera why exactly would you not 1) reveal the bombshell 2)why pick the same day to meet PM as day you protest march against him?",
+        "in_reply_to_status_id": 809703434676908032,
+        "created_at": "Fri Dec 16 10:25:30 +0000 2016",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "contributors": null,
+        "favorite_count": 4,
+        "favorited": false,
+        "in_reply_to_status_id_str": "809703434676908032",
+        "entities": {
+            "urls": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "id": 76134964,
+                    "id_str": "76134964",
+                    "screen_name": "Pawankhera",
+                    "indices": [
+                        0,
+                        11
+                    ],
+                    "name": "Pawan Khera"
+                }
+            ],
+            "hashtags": []
+        },
+        "user": {
+            "profile_text_color": "000000",
+            "id": 19929890,
+            "profile_link_color": "FF0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670309384740667392/cQxtCVpn.jpg",
+            "created_at": "Mon Feb 02 20:36:36 +0000 2009",
+            "profile_sidebar_border_color": "000000",
+            "utc_offset": -36000,
+            "contributors_enabled": false,
+            "friends_count": 897,
+            "following": true,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "geo_enabled": false,
+            "profile_background_color": "642D8B",
+            "translator_type": "none",
+            "default_profile": false,
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/756182400237875200/A6R2vUoI_normal.jpg",
+            "listed_count": 10444,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/756182400237875200/A6R2vUoI_normal.jpg",
+            "lang": "en",
+            "id_str": "19929890",
+            "profile_background_tile": false,
+            "is_translator": false,
+            "default_profile_image": false,
+            "favourites_count": 6672,
+            "profile_sidebar_fill_color": "000000",
+            "follow_request_sent": false,
+            "is_translation_enabled": false,
+            "followers_count": 5171752,
+            "location": "India ",
+            "has_extended_profile": false,
+            "time_zone": "Hawaii",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670309384740667392/cQxtCVpn.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/19929890/1448649648",
+            "screen_name": "BDUTT",
+            "name": "barkha dutt",
+            "description": "Barkha Rani Jamke Barasti Hai. Cloudburst. Journalist, Author,Wannabe Lawyer. Contributing Columnist @WashingtonPost . Argumentative! Yaaron Ka Yaar.",
+            "statuses_count": 104806,
+            "profile_use_background_image": true,
+            "verified": true,
+            "url": null,
+            "protected": false,
+            "notifications": false
+        },
+        "truncated": false,
+        "coordinates": null,
+        "id_str": "809706005864988672",
+        "lang": "en",
+        "in_reply_to_user_id": 76134964,
+        "retweeted": false,
+        "is_quote_status": false,
+        "in_reply_to_screen_name": "Pawankhera",
+        "geo": null,
+        "in_reply_to_user_id_str": "76134964",
+        "place": null
+    }
+]
